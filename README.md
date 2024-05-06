@@ -9,4 +9,5 @@ days = np.arange((end_date - start_date).days + 1)
 The websites used were:
 
 https://static.bc-edx.com/data/web/mars_news/index.html
+
 https://static.bc-edx.com/data/web/mars_facts/temperature.html
